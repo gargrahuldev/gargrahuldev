@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahuldevgarg-egov
+- 👋 Hi, I’m @gargrahuldev
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Kafka
 - 💞️ I’m looking to collaborate on any thing that has potential to improve life of people.
